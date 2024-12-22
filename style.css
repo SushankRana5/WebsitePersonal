@@ -96,3 +96,26 @@ H1{
 h2{
     font-size: 40px;
 }
+
+.buttons li:hover{
+    background-color: yellowgreen;
+}
+a:hover{
+    color: white;
+}
+.buttons .Ansh:hover{
+    background-color: yellowgreen;
+}
+.buttons .Ansh a:hover{
+    color: white;
+}
+.talks:hover{
+    background-color: yellowgreen;
+}
+.projects:hover{
+    border: 2px solid yellowgreen;
+    color: yellowgreen;
+}
+.links a i:hover{
+    color: yellowgreen;
+}
